@@ -7,7 +7,7 @@ noise, and brown noise.
 
 Read [the post on Noisehack][] for details and a simple demo.
 
-Here's [a more advanced demo](http://jsfiddle.net/szms8/6/) demonstrating
+Here's [a more advanced demo](http://jsfiddle.net/szms8/47/) demonstrating
 both noise modulating oscillators and oscillators modulating noise.
 
 Usage
